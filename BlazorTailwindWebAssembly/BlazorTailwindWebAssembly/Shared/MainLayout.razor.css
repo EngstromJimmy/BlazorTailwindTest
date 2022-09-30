@@ -1,0 +1,25 @@
+main {
+    @apply px-8 container mx-auto;
+}
+
+
+a {
+    @apply uppercase mt-6 ml-8 text-white pb-2 border-b-4 mr-6 border-purple-700 hover:border-green-400;
+}
+
+header {
+    @apply relative mb-16;
+}
+
+nav {
+    @apply flex justify-between absolute inset-x-0 top-0;
+}
+
+
+.style1 {
+    @apply text-white font-bold inset-x-0 text-center absolute top-40 text-5xl; /*text-shadow-xl*/
+}
+
+.style2 {
+    @apply text-cyan-500 bg-white p-2 rounded; /*text-shadow-none*/
+}
