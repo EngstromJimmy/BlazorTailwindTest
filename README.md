@@ -77,7 +77,7 @@ There is also a CLI you can download from Tailwind (bypassing the need for NPM),
 But what if there was a way to combine the technologies?
 Take the best from everything and avoid the "bad"?
 
-In this blog post, I am going to try to solve two problems.
+In this blog post, I am going to try to solve three problems.
 1. Making sure everyone on the team is running the same version of the CLI
 2. Make sure Blazor isolated CSS works
 3. Not adding all the styles to the class tag
